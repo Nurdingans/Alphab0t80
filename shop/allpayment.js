@@ -1,5 +1,5 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY Tzydinñ メ Bo†z ×͜×
 
 *さ BANK*
 1. BRI 
@@ -8,20 +8,18 @@ return `PAYMENT BY ZEEONE OFC
 		
 *さ E-MONEY*
 1. GOPAY
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ MINTA OWNER 
+		• TZ**IN
 2. OVO
-	ㅁ 0887 4350 47326
-		• EL*****TI
+	ㅁ 0859 5047 1442
+		• TZ**IN
 3. DANA
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 0857 9832 8466
+		• TZ**IN
 
 *さ PULSA*
-1. SMARTFREN
-	ㅁ 0887 4350 47326
-2. TELKOMSEL
-	ㅁ 0821 9311 5723
+1. INDOSAT
+	ㅁ 0857 9832 8466
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
